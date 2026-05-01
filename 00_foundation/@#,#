@@ -1,0 +1,13 @@
+terra-protocol/
+│
+├── 00_foundation/
+├── 01_constitution/
+├── 02_economics/
+├── 03_governance/
+├── 04_guardian_layer/
+├── 05_axioma_compute/
+├── 06_infrastructure/
+├── 07_simulation/
+├── 08_interfaces/
+├── 09_docs/
+└── README.md
