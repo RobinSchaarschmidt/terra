@@ -57,3 +57,28 @@ If a conflict occurs:
 Status
 
 Foundational layer — highest stability required
+
+# Terra Foundation
+
+This section defines why Terra exists.
+
+It describes:
+- the problem space
+- the system thesis
+- the constraints of current systems
+
+---
+
+## Files
+
+- problem_space.md  
+- system_thesis.md  
+- constraints.md  
+
+---
+
+## Role
+
+Foundation is the entry point for understanding Terra.
+
+Without this layer, all other components lose context.
