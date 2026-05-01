@@ -93,3 +93,74 @@ Value is determined by:
 
 ```text
 V_task = F(S, D, Q, U, R, T)
+
+Governance Model
+
+Decisions are not based on majority alone.
+
+They require:
+
+* evidence
+* validation
+* system compatibility
+
+High-risk decisions require:
+
+* stronger proof
+* broader consensus
+* Guardian Layer interaction
+
+⸻
+
+Validation System
+
+AXIOMA Compute enables:
+
+* consistency checks
+* multi-source validation
+* trust-weighted consensus
+
+Truth is approximated, not declared.
+
+⸻
+
+Guardian Layer
+
+The Guardian Layer protects against:
+
+* irreversible harm
+* systemic instability
+* incomplete validation
+
+It does not govern.
+
+It enforces caution.
+
+⸻
+
+Architecture
+
+Terra operates through:
+
+* distributed validators
+* modular node roles
+* local-first design
+* global coordination when required
+
+No central authority exists.
+
+⸻
+
+System Goal
+
+Ensure that:
+
+* human activity aligns with planetary limits
+* value reflects real contribution
+* long-term stability overrides short-term gain
+
+⸻
+
+Status
+
+Early-stage conceptual architecture.
